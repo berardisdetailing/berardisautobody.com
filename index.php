@@ -28,6 +28,7 @@ form {
 .style2 {
 	font-family: Arial;
 }
+.style3 {color: #1493FA}
 </style>
 <title>Berardi's - <?php echo $city?> <?php echo $state?> Auto Body Shop | <?php echo $city?> Dent Repair | Auto Painting</title>
 </head>
@@ -93,24 +94,37 @@ BODY</a></span>&nbsp; <span class="seperator">|</span>&nbsp;
 <div id="contentwrapper" class="contentwrapperHm">
 	<div id="sheet" class="sheet">
 		<div id="siderbar" class="sidebar" style="left: 20px; top: 20px">
-		<a href="wheels.html">
-		<img alt="Shop Wheels " src="thumbs/wheelsad.jpg" width="208" height="207" class="imglink" /></a><br />
-		<a href="tires.html">
-		<img alt="" src="thumbs/tires-ad.jpg" width="208" height="207" class="imglink" /></a></div>
+		  <p>&nbsp;</p>
+          <h2 align="center" class="style3"><em>In 2012 Berardi's  was awarded</em></h2>
+          <h2 align="center"><span class="style3"><em>&quot;BEST OF PHILLY&quot;<br />
+            in Philadelphia Magazine</em></span></h2>
+          <p align="center"><img src= "http://berardisdetailing.com/BOP12.png" alt="" width="211" height="207" align="center" /></p>
+          <h2 align="center" class="style3"><em>In 2011 Berardi's  was awarded<br />
+            First Place in the Daily Local News<br />
+            Reader's Choice Awards</em></h2>
+          <p><img src="http://www.berardisdetailing.com/img/dln2.jpg" alt="" align="center" /></p>
+          <br />
+		</div>
 		<br />
 		<div id="contentbox" class="contentstyle">
 			<h1 style=" font-size:20px">Welcome to Berardi's <?php echo $city?> <?php echo $state?> Auto Body Repair and Detailing!</h1>
-			<br />
-At Berardi’s <?=$city?> <?=$state?>Auto Body, we aspire to be the most recognized auto body shop in the <?=$city?> <?=$state?> area for quality and customer satisfaction. We want your auto body repair experience to be a positive one, whether you are having your car come in for detailing, <?=$city?> <?=$state?> auto body repair, auto painting, auto repair, auto glass replacement, paintless <?=$city?> dent repair, window tinting, ding and dent repair, or any of our specialty services. We use only the latest, newest most sophisticated automotive equipment available. Our <?=$city?> <?=$state?> technicians are factory-trained with many years of experience to ensure that your car will look and drive showroom new.
-<br />
-<br />
-We here at Berardi's <?=$city?> <?=$state?> Auto Body also recognize the importance of being visible to the internet community. For this reason we are pleased and excited to bring you an all new <?=$city?> <?=$state?> auto body shop web site complete with information about auto body repair, detailing, auto repair, auto painting, auto glass replacement, paintless <?=$city?> dent repair, and specialty services. 
-<br />
-<br />
-Our services are available six days a week by appointment, and our work is backed by our customer satisfaction guarantee. Berardi's offers free pick up and delivery from your <?=$city?> <?=$state?> home or office and has rental cars available.  This is provided for all services, including those related to <?=$city?> <?=$state?> auto body repair, auto painting, or ding and <?=$city?> dent repair.
-<br />
-<br />
-Thank you for visiting Berardi's Auto Body, your number one auto body shop in <?=$city?> <?=$state?> for all your car repair, auto painting, and ding and dent repair needs. We hope you enjoy your visit and we look forward to seeing you soon. </div>
+			<p><br />
+			  At Berardi’s <?=$city?> <?=$state?>Auto Body, we aspire to be the most recognized auto body shop in the <?=$city?> <?=$state?> area for quality and customer satisfaction. We want your auto body repair experience to be a positive one, whether you are having your car come in for detailing, <?=$city?> <?=$state?> auto body repair, auto painting, auto repair, auto glass replacement, paintless <?=$city?> dent repair, window tinting, ding and dent repair, or any of our specialty services. We use only the latest, newest most sophisticated automotive equipment available. Our <?=$city?> <?=$state?> technicians are factory-trained with many years of experience to ensure that your car will look and drive showroom new.
+  <br />
+  <br />
+			  We here at Berardi's <?=$city?> <?=$state?> Auto Body also recognize the importance of being visible to the internet community. For this reason we are pleased and excited to bring you an all new <?=$city?> <?=$state?> auto body shop web site complete with information about auto body repair, detailing, auto repair, auto painting, auto glass replacement, paintless <?=$city?> dent repair, and specialty services. 
+  <br />
+  <br />
+			  Our services are available six days a week by appointment, and our work is backed by our customer satisfaction guarantee. Berardi's offers free pick up and delivery from your <?=$city?> <?=$state?> home or office and has rental cars available.  This is provided for all services, including those related to <?=$city?> <?=$state?> auto body repair, auto painting, or ding and <?=$city?> dent repair.
+  <br />
+  <br />
+			  Thank you for visiting Berardi's Auto Body, your number one auto body shop in <?=$city?> <?=$state?> for all your car repair, auto painting, and ding and dent repair needs. We hope you enjoy your visit and we look forward to seeing you soon. </p>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>
+            	<p align="center">
+			  <iframe width="420" height="236" src="http://www.youtube.com/embed/DM7QW20_Wug" frameborder="0" allowfullscreen ></iframe>
+			</p>
+	  </div>
 		<br />
 		<br />
 		<br />
